@@ -1,0 +1,17 @@
+{
+    "name": "iamapen/monolog-kit",
+    "type": "library",
+    "description": "",
+    "homepage": "https://github.com/iamapen/monolog-kit",
+    "license": "MIT",
+    "keywords": ["monolog"],
+    "authors": [
+        {
+            "name": "Yosuke Kushida",
+            "email": "iamapen@studiopoppy.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
+
