@@ -17,5 +17,10 @@
     },
     "require-dev": {
         "phpunit/phpunit": "^8.4"
+    },
+    "autoload": {
+        "psr-4": {
+          "Iamapen\\MonologKit\\": "src/"
+        }
     }
 }
